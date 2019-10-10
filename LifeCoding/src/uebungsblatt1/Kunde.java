@@ -6,6 +6,7 @@ public class Kunde extends Person {
 	private int rabatt;
 	//tests
 	//noch mehr tests
+	//langsam fallen mir keine Tests mir ein
 	
 	public Kunde(String name, int kundennummer, int rabatt) {
 		super(name);
