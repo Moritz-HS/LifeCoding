@@ -5,7 +5,7 @@ public class Kunde extends Person {
 	private int kundennummer;
 	private int rabatt;
 	//tests
-	//noch mehr tests ma
+	//noch mehr tests
 	
 	public Kunde(String name, int kundennummer, int rabatt) {
 		super(name);
